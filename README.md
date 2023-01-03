@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Eu sou o <a href="https://www.instagram.com/gott_tr0ll3/"><i>Henrique Fernandes</i></a> 🤘🏻</h1>
-  <p align="center">Estudante de Programação e tecnologia!</p>
+  <p align="center">Estudante de programação e tecnologia!</p>
 
 </div>
 
